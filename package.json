@@ -1,0 +1,14 @@
+{
+  "name": "verkada-sync-api",
+  "version": "1.0.0",
+  "description": "A tool to scrape Verkada API documentation and automatically sync with Postman workspace/collection",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "jest"
+  },
+  "author": "Mayor of Gastown",
+  "license": "MIT"
+}
